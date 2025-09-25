@@ -1,0 +1,12 @@
+{
+  "id": 8000001,
+  "name": "Dusty",
+  "status": "available",
+  "category": { "id": 8000001, "name": "Cat" },
+  "tags": [
+    { "id": 1, "name": "cute" },
+    { "id": 2, "name": "indoor" }
+  ],
+  "photoUrls": [""],
+  "imagePath": "./assets/pet-cat-1.jpg"
+}
